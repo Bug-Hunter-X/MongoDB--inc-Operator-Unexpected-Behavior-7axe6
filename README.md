@@ -1,0 +1,2 @@
+# MongoDB $inc Operator Unexpected Behavior
+This repository demonstrates an uncommon bug related to the `$inc` operator in MongoDB.  Incorrect usage can result in unexpected data, such as negative ages. The solution provides a way to prevent this.
